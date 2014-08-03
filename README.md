@@ -1,6 +1,7 @@
 EverKindle
 -----
 A little script I wrote to convert my evernote notes to a format I can use on my kindle paperwhite.
+(this is a ground-up rewrite of the RevNotesOrder script I wrote)
 
 **REQUIRES NOTES IN EVERNOTE**
 1. Export desired notes in Evernote
